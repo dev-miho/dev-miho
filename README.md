@@ -26,5 +26,5 @@
   <img src="https://streak-stats.demolab.com?user=dev-miho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TVOJ_USERNAME&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-miho&theme=tokyonight" alt="Profile Summary" />
 </p>
