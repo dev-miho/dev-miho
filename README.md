@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" />
 </p>
+
+-Software Engineering student interested in Software Engineering, AI/ML Engineering, and Data Science. 
+Passionate about building software, exploring AI technologies, and solving real-world problems.
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-miho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
