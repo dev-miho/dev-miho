@@ -4,21 +4,25 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" />
 </p>
+---
+
 <img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
--🧠 Software Engineering student interested in Software Engineering, AI/ML Engineering, and Data Science. 
+
+- 🧠 Software Engineering student interested in Software Engineering, AI/ML Engineering, and Data Science. 
 
 
--💻 Passionate about building software, exploring AI technologies, and solving real-world problems.
+- 💻 Passionate about building software, exploring AI technologies, and solving real-world problems.
 
 
--🚀 I’m currently working with **Python, PyTorch, Java, C++, and Django**.
+- 🚀 I’m currently working with **Python, PyTorch, Java, C++, and Django**.
 
 
 <br clear="both"/>
 
+---
 
 
-
+### 📊 Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-miho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
