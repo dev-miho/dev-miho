@@ -6,7 +6,7 @@
 </p>
 
 -Software Engineering student interested in Software Engineering, AI/ML Engineering, and Data Science. 
-Passionate about building software, exploring AI technologies, and solving real-world problems.
+-Passionate about building software, exploring AI technologies, and solving real-world problems.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-miho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
