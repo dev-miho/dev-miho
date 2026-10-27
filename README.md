@@ -4,3 +4,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" />
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-miho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
