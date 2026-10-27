@@ -8,7 +8,7 @@
 -Software Engineering student interested in Software Engineering, AI/ML Engineering, and Data Science. 
 -Passionate about building software, exploring AI technologies, and solving real-world problems.
 -I’m currently working with **Python, PyTorch, Java, C++, and Django**.
-
+<br clear="both"/>
 
 
 
